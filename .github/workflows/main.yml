@@ -39,5 +39,6 @@ jobs:
           npm i
       - name: Deploy hexo
         run: |
+          cd webpage/
           hexo g
           hexo d
