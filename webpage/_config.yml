@@ -104,8 +104,8 @@ theme: next7
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/Koios1143/test-repo.git
-  branch: gh-pages
+  repo: git@github.com:Koios1143/test-repo.git
+  branch: master
 
 # MathJax
 math:
