@@ -40,6 +40,6 @@ jobs:
           npm i
       - name: Deploy hexo
         run: |
-          pwd
+          cd webpage/
           hexo g
           hexo d
