@@ -106,6 +106,7 @@ deploy:
   type: 'git'
   repo: git@github.com:Koios1143/test-repo.git
   branch: gh-pages
+  token: ${{ secrets.GITHUB_TOKEN }}
 
 # MathJax
 math:
