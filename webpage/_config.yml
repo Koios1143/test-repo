@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://scist-tw.github.io/
-root: /resource_integration/
+url: https://koios.github.io/
+root: /test-repo/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
